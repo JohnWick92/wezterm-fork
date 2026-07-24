@@ -14,9 +14,6 @@
 > Requirements:
 >
 > - [Wezterm _**nightly**_](https://wezfurlong.org/wezterm/installation.html)
-> - [Fira Code NerdFont](https://www.nerdfonts.com).
-> - [Monaspace Radon](https://github.com/githubnext/monaspace/releases/latest)
-> - [Monaspace Krypton](https://github.com/githubnext/monaspace/releases/latest)
 
 1. **Backup any old config**:
 
@@ -34,12 +31,12 @@
 
     ~~~sh
     # on Linux
-    git clone https://github.com/sravioli/wezterm.git ~/.config/wezterm
+    git clone https://github.com/JohnWick92/wezterm-fork.git ~/.config/wezterm
     ~~~
 
     ~~~powershell
     # on Windows
-    git clone https://github.com/sravioli/wezterm.git $env:HOME/.config/wezterm
+    git clone https://github.com/JohnWick92/wezterm-fork.git $env:HOME/.config/wezterm
     ~~~
 
 3. **Done** 🎉.
